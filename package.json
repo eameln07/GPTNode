@@ -1,0 +1,10 @@
+{
+  "name": "the_web_site",
+  "version": "1.0.0",
+  "description": "GPT and more",
+  "main": "index.js",
+  "repository": "",
+  "author": "Evgenii Melnichuk",
+  "license": "Evgenii Melnichuk",
+  "private": true
+}
