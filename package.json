@@ -1,6 +1,7 @@
 {
   "name": "the_web_site",
   "version": "1.0.0",
+  "engines": {"yarn": "1.x"},
   "description": "GPT and more",
   "main": "index.js",
   "repository": "",
